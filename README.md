@@ -12,8 +12,8 @@ Este repositorio nace gracias al #PlatziReto de Front End para probar lo aprendi
 * ¡Nada de JavaScript!
 * Historia en foto de perfil
 * Tabs que cambian de contenido
- - Tab "Publicaciones"
- - Tab "Etiquetadas"
+ -- Tab "Publicaciones"
+ -- Tab "Etiquetadas"
 
 
 
